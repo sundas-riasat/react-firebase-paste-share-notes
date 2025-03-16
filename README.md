@@ -27,7 +27,7 @@ A **lightweight** and **fast** note-sharing app built with **React** and **Fireb
 
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/yourusername/instant-note-sharing.git
+git clone https://github.com/sundas-riasat/react-firebase-paste-share-notes
 cd instant-note-sharing
 ```
 
